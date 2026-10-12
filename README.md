@@ -3,7 +3,7 @@ Projeto de meu antigo portfólio desenvolvido com o curso "Html-Css-Feliz" de ht
 Página responsiva com componentes e implementações de animações via CSS e JS.
 Com formulário funcional e download CV(currículo).
 
-Preview funcional do site no Github Pages: [Demo(https://oliveiravitor32.github.io/arquivado_portfolio_html-css/)]
+Preview funcional do site no Github Pages: [Demo](https://oliveiravitor32.github.io/arquivado_portfolio_html-css/)
 
 Status: Finalizado!
 
